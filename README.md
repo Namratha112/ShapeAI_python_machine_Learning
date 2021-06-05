@@ -1,0 +1,2 @@
+# ShapeAI_python_machine_Learning
+Project on LinearRegression
